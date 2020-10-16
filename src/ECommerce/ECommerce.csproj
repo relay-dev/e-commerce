@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <PackageId>Relay.ECommerce</PackageId>
+    <Version>1.0.1</Version>
+    <Authors>Scott Ferguson</Authors>
+    <Company>Relay Technologies</Company>
+    <Description>A small library of common types and utilities useful in eCommerce</Description>
+    <Copyright>Copyright ©2020</Copyright>
+    <PackageProjectUrl>https://github.com/relay-dev/e-commerce</PackageProjectUrl>
+    <PackageIconUrl>https://i.imgur.com/KLdrWTh.png</PackageIconUrl>
+    <RepositoryUrl>https://github.com/relay-dev/e-commerce.git</RepositoryUrl>
+    <PackageReleaseNotes>Initial release</PackageReleaseNotes>
+  </PropertyGroup>
+
+</Project>
